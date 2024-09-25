@@ -1,13 +1,13 @@
 # Task Eleven - Cloud VM Setup and Interaction
 
 ## Objective
-This task involves creating a free Virtual Machine (VM) in a cloud environment (Azure is preferred, but GCP or AWS can also be used), interacting with it from a Kali Linux environment, and documenting the process.
+This task involves creating a free Virtual Machine (VM) in a cloud environment interacting with it from a Kali Linux environment, and documenting the process.
 
 ## Steps
 
 1. **Research and create a free VM:**
    - Researched how to create a free VM on the selected cloud platform.
-   - Followed the steps to launch the VM in the cloud account (Azure/GCP/AWS).
+   - Followed the steps to launch the VM in the cloud account .Here i use Azure account.
    - Documented the steps in a text file.
 
 2. **Retrieve VM IP Address:**
@@ -36,7 +36,7 @@ This task involves creating a free Virtual Machine (VM) in a cloud environment (
 
 ## Files in this repository
 
--  Azure VM.txt`: A text file detailing the step-by-step process followed to create, interact with, and terminate the VM.
+-  Azure VM.txt: A text file detailing the step-by-step process followed to create, interact with, and terminate the VM.
 -  Screenshot of Kali Linux pinging the VM.
 -  Screenshot of the `ip a` command output after logging into the VM.
 -  Screenshot of the VM pinging the public IP address of Kali Linux.
