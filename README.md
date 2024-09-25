@@ -18,7 +18,7 @@ This task involves creating a free Virtual Machine (VM) in a cloud environment i
 
 4. **Login via SSH:**
    - Logged into the VM using SSH from Kali Linux.
-         ssh -i <path of private key file> username@IP
+         ssh -i path of private key file username@IP
    - Ran the command `ip a` to display the VM’s network interfaces.
    - Took a screenshot of the result.
 
